@@ -1,5 +1,5 @@
 Hi 👋 My name is Ömer Asaf, <br>
-Music Teacher & Junior Full Stack Developer <br>
+I'm Music Teacher & Junior Full Stack Developer <br>
 A man who tries to crown his artistic personality gained through music with software…  <br>
 
 * I'm based in Ankara <br>
