@@ -1,5 +1,3 @@
-# OAE
-
 Hi 👋 My name is Ömer Asaf, <br>
 Music Teacher & Junior Full Stack Developer <br>
 A man who tries to crown his artistic personality gained through music with software…  <br>
