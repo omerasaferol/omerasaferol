@@ -24,3 +24,14 @@ Skills
     <a href="https://www.figma.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;"></a> 
 </p>
+
+<p align="left" dir="auto"> 
+	<a href="https://www.github.com/omerasaferol">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a> 
+	<a href="http://www.instagram.com/omerasaferol" rel="nofollow">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a> 
+	<a href="https://www.linkedin.com/in/omerasaferol" rel="nofollow">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a> 
+	<a href="https://www.twitter.com/omerasaferol" rel="nofollow">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
+</p>
